@@ -3,8 +3,10 @@ type: concept
 title: Формальная система
 created: 2026-10-03
 updated: 2026-10-03
-status: needs-review
-tags: [logic, cybernetics]
+status: verified
+tags:
+  - logic
+  - cybernetics
 sources:
   - "[[lecture-02-cybernetics-logic]]"
 ---
@@ -46,5 +48,3 @@ _Интерпретация (не из лекции, проверить): «мн
 - [[function]]
 
 ## Open questions
-
-- [ ] Что именно подразумевается под «множеством встроенных формул»? (контекст: [[2026-10-02-lecture-02]])

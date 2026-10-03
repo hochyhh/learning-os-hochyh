@@ -40,5 +40,3 @@ Source needed.
 - [[harness]]
 
 ## Open questions
-
-- [ ] Что именно стандартизирует MCP и где его спецификация?

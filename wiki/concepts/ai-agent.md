@@ -3,8 +3,10 @@ type: concept
 title: ИИ-агент
 created: 2026-10-03
 updated: 2026-10-03
-status: needs-review
-tags: [ai, cybernetics]
+status: verified
+tags:
+  - ai
+  - cybernetics
 sources:
   - "[[lecture-01-cybernetics-ai-agents]]"
 ---
@@ -31,7 +33,7 @@ _Интерпретация (не из лекции, проверить): LLM о
 
 ## Boundaries and common mistakes
 
-- Лекция не проводит границу между «обычным чатом с LLM» и агентом — см. открытые вопросы.
+- Лекция не проводит границу между «обычным чатом с LLM» и агентом.
 - Не смешивать компоненты: это не синонимы, а разные роли в одной системе.
 
 ## Sources
@@ -44,5 +46,3 @@ _Интерпретация (не из лекции, проверить): LLM о
 - [[harness]]
 
 ## Open questions
-
-- [ ] Чем агент отличается от простого чата с LLM? (контекст: [[2026-09-18-lecture-01]])

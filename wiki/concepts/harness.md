@@ -40,5 +40,3 @@ Source needed.
 - [[mcp]]
 
 ## Open questions
-
-- [ ] Какой конкретный пример харнесса был в лекции (Claude Code, Codex, другой)?
